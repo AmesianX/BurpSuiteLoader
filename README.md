@@ -11,6 +11,10 @@
 </h5>
 <h5 align="center">此项目可在PortSwigger不改变目前注册算法的情况下直接Patch未来更新的Burp Suite版本 *未混淆，请自行围观jar包*
 </h5>
+<h5 align="center">If it helps you, click on the !Star!😎
+</h5>
+<h5 align="center">走过路过，点一下Start吧😜
+</h5>
 <br>
 <img src="https://github.com/x-Ai/BurpSuiteLoader/blob/master/Main.png" />
 
