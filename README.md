@@ -11,7 +11,7 @@
 </h5>
 <h5 align="center">此项目可在PortSwigger不改变目前注册算法的情况下直接Patch未来更新的Burp Suite版本 *未混淆，请自行围观jar包*
 </h5>
-<h5 align="center">因为PortSwigger放弃了BurpSuiteJ对ava8的支持，<em>scz</em> 师傅也结束了对loader的更新。!!!低调使用，让Loader可以服务的时间更长吧!!!🤞
+<h5 align="center">因为PortSwigger放弃了BurpSuite对Java8的支持，<em>scz</em> 师傅也结束了对loader的更新。!!!低调使用，让Loader可以服务的时间更长吧!!!🤞
 </h5>
 <h4 align="center">If it helps you, click on the !Star!😎
 </h4>
