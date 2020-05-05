@@ -15,7 +15,7 @@
 </h5>
 <h4 align="center">If it helps you, click on the !Star!😎
 </h4>
-<h4 align="center">走过路过，点一下Start吧😜
+<h4 align="center">走过路过，点一下Star吧😜
 </h4>
 <br>
 <img src="https://github.com/x-Ai/BurpSuiteLoader/blob/master/Main.png" />
