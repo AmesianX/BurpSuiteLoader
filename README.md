@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">商业使用请购买正版软件！ link:https://portswigger.net/burp
 </h3>
-<h3 align="center">❌!!!出现多个根据本项目Loader的修改版本，请自行甄别使用，本项目概不负责!!!❌
+<h3 align="center">❌!!!出现多个根据本项目Loader的修改版本，请自行甄别使用，出现问题，本项目概不负责!!!❌
 </h3>
 <h5 align="center">本项目只是为了兴趣爱好学习交流，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担并将追究其相关责任！
 </h5>
