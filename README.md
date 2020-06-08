@@ -27,7 +27,7 @@
 <br>
 <br>
 
-> `java version 9 - 13`
+> `java version 9 - 14`
 
 > `BurpSuite version v2020.1 - ∞`
 
